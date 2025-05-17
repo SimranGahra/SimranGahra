@@ -16,11 +16,11 @@ I'm a **Software Systems Engineering** student at the **University of Regina** w
 
 🚀 I'm always open to collaborating on new projects that spark innovation and creativity.
 
-✔ Feel free to reach out—I'm always happy to help or chat about ideas.
+✔ Feel free to reach out-I'm always happy to help or chat about ideas.
 
 Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exploring new music, staying active, and spending quality time outdoors in nature.
 
-✨ Currently seeking opportunities to apply my skills and grow as an engineer—let's connect!
+✨ Currently seeking opportunities to apply my skills and grow as an engineer-let's connect!
 
 <br>
 
