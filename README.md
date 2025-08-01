@@ -24,15 +24,8 @@ Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exp
 
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=SimranGahra&theme=dark_lover&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
 <!-- Social Links -->
-<div align="center">
+<div align="left">
   <a href="mailto:gahrasimranjit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/simran-gahra/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://github.com/SimranGahra"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
@@ -116,34 +109,5 @@ Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exp
     </td>
   </tr>
 </table>
-<br>
-
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SimranGahra&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimranGahra&theme=nightowl&hide_border=false" alt="SimranGahra streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SimranGahra&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
-
-<!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/SimranGahra/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
