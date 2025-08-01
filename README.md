@@ -98,6 +98,17 @@ Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exp
         <p>Full-stack recipe app where you can browse, create, update, and delete recipes - all behind secure user authentication. Save your favorites, manage your collection, and explore new dishes, all in one place.</p>
       </div>
     </td>
+      <td width="50%">
+        <h3 align="center">West-Bound</h3>
+        <div align="center">
+          <a href="https://github.com/SimranGahra/West-Bound" target="_blank">
+            <img src="https://img.shields.io/badge/View-Godot_Game-blue?style=for-the-badge&logo=github" />
+          </a>
+          <p>Two-player action game for PC, built from scratch using the Godot Engine and GDScript. Jump in for fast-paced local multiplayer, quirky art, and quick rounds-ideal for some friendly competition.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">HiMovies</h3>
       <div align="center">
@@ -105,17 +116,6 @@ Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exp
           <img src="https://img.shields.io/badge/View-RESTful_API-black?style=for-the-badge&logo=github" />
         </a>
         <p>A full-featured movie database built on the LAMP stack, complete with RESTful APIs, account management, and authentication. Search for films, manage your watchlist, and interact with the app hosted on a live Linux server.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">West-Bound</h3>
-      <div align="center">
-        <a href="https://github.com/SimranGahra/West-Bound" target="_blank">
-          <img src="https://img.shields.io/badge/View-Godot_Game-blue?style=for-the-badge&logo=github" />
-        </a>
-        <p>Two-player action game for PC, built from scratch using the Godot Engine and GDScript. Jump in for fast-paced local multiplayer, quirky art, and quick rounds-ideal for some friendly competition.</p>
       </div>
     </td>
     <td width="50%">
