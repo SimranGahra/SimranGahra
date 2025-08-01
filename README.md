@@ -92,7 +92,7 @@ Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exp
     <td width="50%">
       <h3 align="center">Cookify</h3>
       <div align="center">
-        <a href="https://github.com/SimranGahra/Cookify" target="_blank">
+        <a href="https://github.com/SimranGahra/ENSE374-Cookify" target="_blank">
           <img src="https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=github" />
         </a>
         <p>Full-stack recipe app where you can browse, create, update, and delete recipes - all behind secure user authentication. Save your favorites, manage your collection, and explore new dishes, all in one place.</p>
@@ -102,7 +102,7 @@ Beyond tech, I enjoy connecting with friends, 🎮 playing video games, 🎵 exp
       <h3 align="center">HiMovies</h3>
       <div align="center">
         <a href="https://github.com/SimranGahra/HiMovies" target="_blank">
-          <img src="https://img.shields.io/badge/View-HiMovies-black?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/View-RESTful_API-black?style=for-the-badge&logo=github" />
         </a>
         <p>A full-featured movie database built on the LAMP stack, complete with RESTful APIs, account management, and authentication. Search for films, manage your watchlist, and interact with the app hosted on a live Linux server.</p>
       </div>
